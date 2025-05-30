@@ -1,0 +1,36 @@
+			Lesson -1
+Topic: Introduction to Power BI
+Prerequisites: Download Sales_Data.csv file
+1. What is Power BI, and what are its three main components?
+ Power BI is a data visualization and business intelligence tool from Microsoft. It helps people turn data into useful charts and reports. The three main components are: Power BI Desktop, Power BI Service, and Power BI Mobile.
+2. Name two business use cases for Power BI dashboards.
+ A sales team can track daily sales and trends. An HR department can monitor employee performance and headcount.
+3. How do you download and install Power BI Desktop?
+ Go to the Power BI website, click “Download Power BI Desktop,” and install the file like regular software.
+4. What is the difference between Power BI Desktop and Power BI Service?
+ Power BI Desktop is used to create reports, while Power BI Service is used to publish and share them online.
+5. What file extension does a Power BI project use?
+ It uses the .pbix file extension.
+6. Explain the role of Power Query in Power BI.
+ Power Query helps to import, clean, and prepare data before building visual reports.
+7. Why would a business prefer Power BI over Excel for reporting?
+ Because Power BI can handle large data, update in real time, and create interactive dashboards more easily than Excel.
+8. Describe one limitation of the free version of Power BI.
+ You cannot share reports with others unless you have a Pro license.
+9. What is a "published report" in Power BI Service?
+ It’s a report uploaded from Power BI Desktop to the Power BI online platform for sharing.
+10. How does Power BI Mobile enhance accessibility?
+ It allows users to view reports on their phones or tablets anytime, anywhere.
+11. Compare Power BI with Tableau—pros and cons.
+ Power BI is cheaper, easier for beginners, and integrates with Microsoft tools. Tableau offers better visuals and handles big data well, but it’s more expensive and harder to learn.
+12. Explain how Power BI integrates with Azure services.
+ Power BI connects to Azure databases like Azure SQL and Data Lake to pull real-time cloud data for reporting.
+13. What are "gateways" in Power BI, and when are they needed?
+ Gateways connect Power BI to local (on-premises) data sources. They’re needed when data isn’t stored in the cloud.
+14. How would you convince a company to adopt Power BI? (ROI argument)
+ Power BI helps make faster and smarter decisions, saves time, reduces errors, and improves profits through clear and real-time reporting.
+15. What security features does Power BI offer for sensitive data?
+ It offers data encryption, row-level security, access control, and compliance with Microsoft’s cloud protection standards.
+
+
+
